@@ -18,8 +18,6 @@ This repository contains my work and projects for the CPSC2600 (Foundations of C
   - `Graph.h`: Header.
   - `Graph.cpp`: Source.
   - `HW4.cpp`: Driver.
-  - 
-
 
 ## How to Use
 
