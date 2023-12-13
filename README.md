@@ -11,13 +11,13 @@ This repository contains my work and projects for the CPSC2600 (Foundations of C
 
 ## Contents
 
-- **[HW2]:** Set Theory (Java)
-  - [HW2.java]: Simple set operations done in Java.
+- **HW2:** Set Theory (Java)
+  - `HW2.java`: Simple set operations done in Java.
 
-- **[HW4]:** Graph Theory (C++)
-  - [Graph.h]: Header.
-  - [Graph.cpp]: Source.
-  - [HW4.cpp]: Driver.
+- **HW4:** Graph Theory (C++)
+  - `Graph.h`: Header.
+  - `Graph.cpp`: Source.
+  - `HW4.cpp`: Driver.
   - 
 
 
